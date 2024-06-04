@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "YWDbKa3gRKTaC6Mu0ZHSchKvaY+/6b/ofW7e890frhY=",
+  "Source": "DUR_Application",
+  "BasePath": "_content/DUR_Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DUR_Application\\wwwroot",
+      "Source": "DUR_Application",
+      "ContentRoot": "C:\\Users\\jjmar\\Desktop\\Projects\\MaintanceDeparment\\MaintanceDeparmentAPI\\DUR_Application\\wwwroot\\",
+      "BasePath": "_content/DUR_Application",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

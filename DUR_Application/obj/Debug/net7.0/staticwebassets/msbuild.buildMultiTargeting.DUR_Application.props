@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DUR_Application.props" />
+</Project>
